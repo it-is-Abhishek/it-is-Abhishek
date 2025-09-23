@@ -1,7 +1,6 @@
 <table>
   <tr>
     <td>
-      <!-- Your text section -->
       <h2>💫 About Me:</h2>
       <p>👋 Hi, I’m Abhishek Varma</p>
       <p>💻 B.Tech CS & AI Student | Aspiring Full Stack Developer</p>
@@ -10,7 +9,6 @@
       <p>📫 Reach me: <a href="https://www.linkedin.com/in/abhishek-varma-72bb34325/">LinkedIn</a></p>
     </td>
     <td>
-      <!-- Your GitHub GIF -->
       <img src="https://i.imgur.com/Pj6jufT.gif" alt="Profile GIF" width="300"/>
     </td>
   </tr>
