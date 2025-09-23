@@ -1,4 +1,3 @@
-- 👋 Hi, I’m Abhishek Varma
 <table>
   <tr>
     <td>
