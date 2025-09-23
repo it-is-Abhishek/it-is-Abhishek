@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Abhishek Varma
-<img src="https://i.imgur.com/Pj6jufT.gif" width="300"/>
-# 💫 About Me:
-👋 Hi, I’m Abhishek Varma  <br>💻 B.Tech CS Student | Aspiring Full Stack Developer  <br>🛠 Skills: Python, JavaScript, React, HTML, CSS, Git  <br>🌱 Currently learning: TypeScript and Node.js  <br>📫 Reach me: [LinkedIn](https://www.linkedin.com/in/abhishek-varma-72bb34325/)
+<img src="https://i.imgur.com/Pj6jufT.gif" width="300" # 💫 About Me:
+👋 Hi, I’m Abhishek Varma  <br>💻 B.Tech CS Student | Aspiring Full Stack Developer  <br>🛠 Skills: Python, JavaScript, React, HTML, CSS, Git  <br>🌱 Currently learning: TypeScript and Node.js  <br>📫 Reach me: [LinkedIn](https://www.linkedin.com/in/abhishek-varma-72bb34325/)/>
 
 
 ## 🌐 Socials:
