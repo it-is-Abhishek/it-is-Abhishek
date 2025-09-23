@@ -4,7 +4,7 @@
       <!-- Your text section -->
       <h2>💫 About Me:</h2>
       <p>👋 Hi, I’m Abhishek Varma</p>
-      <p>💻 B.Tech CS&AI Student | Aspiring Full Stack Developer</p>
+      <p>💻 B.Tech CS & AI Student | Aspiring Full Stack Developer</p>
       <p>🛠 Skills: Python, JavaScript, React, HTML, CSS, Git</p>
       <p>🌱 Currently learning: TypeScript and Node.js</p>
       <p>📫 Reach me: <a href="https://www.linkedin.com/in/abhishek-varma-72bb34325/">LinkedIn</a></p>
