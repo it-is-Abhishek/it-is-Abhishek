@@ -12,7 +12,7 @@
     </td>
     <td>
       <!-- Your GitHub GIF -->
-      <img src="YOUR_GIF_URL_HERE" alt="Profile GIF" width="300"/>
+      <img src="https://i.imgur.com/Pj6jufT.gif" alt="Profile GIF" width="300"/>
     </td>
   </tr>
 </table>
