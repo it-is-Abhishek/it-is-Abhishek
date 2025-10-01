@@ -3,7 +3,6 @@
     <td>
       <h2>💫 About Me:</h2>
       <p>🌱 Currently learning: TypeScript and Node.js</p>
-      <p>📫 Reach me: <a href="https://www.linkedin.com/in/abhishek-varma-72bb34325/">LinkedIn</a></p>
     </td>
     <td>
       <img src="https://i.imgur.com/Pj6jufT.gif" alt="Profile GIF" width="300"/>
