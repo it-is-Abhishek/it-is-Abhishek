@@ -4,6 +4,7 @@
       💻 Programming Languages:e.g., Python, JavaScript
       <br>
       🛠️ Frameworks & Libraries: e.g., React, Node.js
+      <br>
       🌐 Web Technologies:e.g., HTML5, CSS3,
     </td>
     <td>
