@@ -1,8 +1,6 @@
 <table>
   <tr>
     <td>
-    </td>
-    <td>
       <img src="https://i.imgur.com/Pj6jufT.gif" alt="Profile GIF" width="300"/>
     </td>
   </tr>
