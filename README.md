@@ -1,8 +1,6 @@
 <table>
   <tr>
     <td>
-      <h2>💫 About Me:</h2>
-      <p>🌱 Currently learning: TypeScript and Node.js</p>
     </td>
     <td>
       <img src="https://i.imgur.com/Pj6jufT.gif" alt="Profile GIF" width="300"/>
