@@ -1,16 +1,7 @@
 <table>
-  <tr>
-    <td>
-      💻 Programming Languages:e.g., Python, JavaScript
-      <br>
-      🛠️ Frameworks & Libraries: e.g., React, Node.js
-      <br>
-      🌐 Web Technologies:e.g., HTML5, CSS3,
-    </td>
     <td>
       <img src="https://i.imgur.com/Pj6jufT.gif" alt="Profile GIF" width="300"/>
     </td>
-  </tr>
 </table>
 
 
