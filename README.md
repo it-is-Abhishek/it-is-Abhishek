@@ -18,12 +18,6 @@
 </div>
 
 
-# 🚀About Me 
-🎓 Computer Science & Engineering Student at **Newton School of Technology (ADYPU), Pune**  
-💻 Passionate Full Stack Developer exploring cutting-edge technologies  
-☄️ Enthusiastic about **Generative AI, LLMs & Modern Web Development**  
-🌱 Currently mastering **Next.js, Prisma ORM**
----
 
 
 
