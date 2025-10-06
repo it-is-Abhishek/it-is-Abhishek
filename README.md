@@ -66,3 +66,26 @@
 
 ---
 
+# Competitive Programming Profiles
+
+<div>
+  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/it-is-Abhishek/)
+
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/jainanuj2005)
+
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/jainanuj2005)
+
+</div>
+
+---
+
+
+# LeetCode Badges Showcase
+
+<p align="center">
+  <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" width="120" alt="50 Days Badge 2025"/>
+</p>
+<div align="center">
+
+**
