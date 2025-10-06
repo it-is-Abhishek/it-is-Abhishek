@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Full+Stack+Developer;Problem+Solver;Open+Source+Enthusiast;LLM+%26+Generative+AI+Explorer" alt="Typing SVG" />
 </div>
 
@@ -18,12 +18,16 @@
 </div>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=it-is-Abhishek&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=it-is-Abhishek&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=it-is-Abhishek&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 🚀About Me 
+🎓 Computer Science & Engineering Student at **Newton School of Technology (ADYPU), Pune**  
+💻 Passionate Full Stack Developer exploring cutting-edge technologies  
+☄️ Enthusiastic about **Generative AI, LLMs & Modern Web Development**  
+🌱 Currently mastering **Next.js, Prisma ORM**
+---
 
-## 🏆 GitHub Trophies
+
+
+# 🛠️Tech Stack
 ![](https://github-profile-trophy.vercel.app/?username=it-is-Abhishek&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
