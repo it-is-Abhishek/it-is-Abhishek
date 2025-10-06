@@ -12,11 +12,9 @@
   <img src="https://img.shields.io/github/stars/it-is-Abhishek?label=Stars&style=social" alt="Stars" />
 </p>
 
+
 <div align="center">
-
-<!-- Another gradient divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 </div>
 
 
