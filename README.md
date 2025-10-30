@@ -51,13 +51,10 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=it-is-Abhishek&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=it-is-Abhishek&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</div>
+![](https://github-readme-stats.vercel.app/api?username=it-is-Abhishek&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=it-is-Abhishek&theme=default_repocard&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=it-is-Abhishek&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=it-is-Abhishek&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </div>
 
 ---
